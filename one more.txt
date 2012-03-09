@@ -1,3 +1,5 @@
+A new change
+
 Some more content here
 
 ok - something's changed here then
